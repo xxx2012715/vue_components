@@ -18,6 +18,6 @@
   "plugins": [
     "transform-vue-jsx",
     "transform-runtime",
-    "@babel/plugin-syntax-dynamic-import",
+    // "syntax-dynamic-import"
   ]
 }
